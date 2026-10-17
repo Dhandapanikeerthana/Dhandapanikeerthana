@@ -199,11 +199,17 @@
 
 ![](https://komarev.com/ghpvc/?username=Dhandapanikeerthana&color=blue&style=for-the-badge)
 
-⭐ Thanks for visiting my profile!
-
 </p>
 
 
-##💡Quote
+
+## Quote
 
 "Turning ideas into code and challenges into opportunities."
+
+
+⭐Thanks for visiting my profile!
+
+
+
+
