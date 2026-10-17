@@ -146,11 +146,13 @@
 
 ## GitHub Status
 
- * Actively learning and building projects in HTML, CSS, JavaScript, Python, C, C++, and Java
-
- * Exploring Linux, Kali Linux, Networking, Wireshark, and Nmap
- 
- * Growing step by step in Cybersecurity and MERN Stack development
+  💻 Actively learning Java, Data Structures & Algorithms, and software development
+  
+  🤖 Building projects in Generative AI, LLMs, and AI-powered applications
+  
+  ☁️ Exploring AWS Cloud, Machine Learning, and modern AI technologies
+  
+  🚀 Growing step by step in problem-solving, Open Source contributions, and software engineering
 
 
 ## Coding Profiles
