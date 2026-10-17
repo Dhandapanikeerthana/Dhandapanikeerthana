@@ -77,21 +77,21 @@
 
  ## 🤖GEN AI
 
-  ## GenAI Chat LLM with Gradio
+  ## 1. GenAI Chat LLM with Gradio
 
-  (https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
+   (https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
 
-  ## Prototype Development for Image Generation Using Stable Diffusion
+  ## 2. Prototype Development for Image Generation Using Stable Diffusion
 
 
   (https://github.com/Dhandapanikeerthana/genai-stable-diffusion-gradio)
 
 
-  ## Named Entity Recognition (NER) Prototype
+  ## 3. Named Entity Recognition (NER) Prototype
 
    (https://github.com/Dhandapanikeerthana/genai-ner-bart-gradio/blob/main/README.md)
 
-  ## Design and Implementation of LangChain Expression Language (LCEL) Expressions
+  ## 4. Design and Implementation of LangChain Expression Language (LCEL) Expressions
 
    (https://github.com/Dhandapanikeerthana/genai-lcel-expressions/blob/main/README.md)
 
@@ -99,29 +99,29 @@
    
 
 
- ## ☕JAVA / SOFTWARE DEVELOPMENT
+  ## ☕JAVA / SOFTWARE DEVELOPMENT
 
-   ## Online Reservation System
+   ## 1. Online Reservation System
  
    (https://github.com/Dhandapanikeerthana/OIBSIP)
 
-   ## News App
+   ## 2. News App
  
    (https://github.com/Dhandapanikeerthana/NEWSAPP)
 
 
 
 
-## 🧠AI / MACHINE LEARNING
+  ## 🧠AI / MACHINE LEARNING
 
-  ## Chennai Real Estate Data Generator
+  ## 1. Chennai Real Estate Data Generator
 
-   (https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
+  (https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
 
 
-  ## Face Detection Project
+  ## 2. Face Detection Project
 
-   (https://github.com/Dhandapanikeerthana/FaceDetectionProjects)
+  (https://github.com/Dhandapanikeerthana/FaceDetectionProjects)
 
 
 
