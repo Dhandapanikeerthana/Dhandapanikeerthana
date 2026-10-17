@@ -6,16 +6,18 @@
 
 
 
-# 💫About Me
+## 💫About Me
 
-🎓 Computer Science and Engineering Student
+  I enjoy building practical software projects, solving programming problems, and exploring new technologies. My goal is to develop useful, reliable applications while continuously improving my 
+  software development and problem-solving skills.
 
-💻 Aspiring Software Developer | Java | Data Structures & Algorithms
+ 🎓 Computer Science and Engineering Student
 
-🤖 Exploring Generative AI, LLM Applications, and Cloud Computing
+ 💻 Aspiring Software Developer | Java | Data Structures & Algorithms
 
-I enjoy building practical software projects, solving programming problems, and exploring new technologies. My goal is to develop useful, reliable applications while continuously improving my 
-software development and problem-solving skills.
+ 🤖 Exploring Generative AI, LLM Applications, and Cloud Computing
+
+
 
 
 
@@ -35,33 +37,34 @@ software development and problem-solving skills.
 
 
 
-# 🛠️Languages & Tools
+## 🛠️Languages & Tools
 
-### Programming Languages
+
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql" />
 </p>
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 </p>
 
-### Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Cloud & Tools
+## Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea,eclipse,figma" />
 </p>
 
-### AI / ML
+## AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
@@ -74,21 +77,21 @@ software development and problem-solving skills.
 
 ## 🤖GEN AI
 
-## GenAI Chat LLM with Gradio
+  ## GenAI Chat LLM with Gradio
 
   (https://github.com/Dhandapanikeerthana/genai-chat-llm-gradio/tree/main)
 
-## Prototype Development for Image Generation Using Stable Diffusion
+  ## Prototype Development for Image Generation Using Stable Diffusion
 
 
   (https://github.com/Dhandapanikeerthana/genai-stable-diffusion-gradio)
 
 
-## Named Entity Recognition (NER) Prototype
+  ## Named Entity Recognition (NER) Prototype
 
    (https://github.com/Dhandapanikeerthana/genai-ner-bart-gradio/blob/main/README.md)
 
-## Design and Implementation of LangChain Expression Language (LCEL) Expressions
+  ## Design and Implementation of LangChain Expression Language (LCEL) Expressions
 
    (https://github.com/Dhandapanikeerthana/genai-lcel-expressions/blob/main/README.md)
 
@@ -98,11 +101,11 @@ software development and problem-solving skills.
 
  ## ☕JAVA / SOFTWARE DEVELOPMENT
 
- ## Online Reservation System
+   ## Online Reservation System
  
    (https://github.com/Dhandapanikeerthana/OIBSIP)
 
- ## News App
+   ## News App
  
    (https://github.com/Dhandapanikeerthana/NEWSAPP)
 
@@ -111,14 +114,14 @@ software development and problem-solving skills.
 
 ## 🧠AI / MACHINE LEARNING
 
-## Chennai Real Estate Data Generator
+  ## Chennai Real Estate Data Generator
 
-  (https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
+   (https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator)
 
 
-## Face Detection Project
+  ## Face Detection Project
 
-  (https://github.com/Dhandapanikeerthana/FaceDetectionProjects)
+   (https://github.com/Dhandapanikeerthana/FaceDetectionProjects)
 
 
 
@@ -143,11 +146,11 @@ software development and problem-solving skills.
 
 ## GitHub Status
 
--> Actively learning and building projects in HTML, CSS, JavaScript, Python, C, C++, and Java
+ -> Actively learning and building projects in HTML, CSS, JavaScript, Python, C, C++, and Java
 
--> Exploring Linux, Kali Linux, Networking, Wireshark, and Nmap
-
--> Growing step by step in Cybersecurity and MERN Stack development
+ -> Exploring Linux, Kali Linux, Networking, Wireshark, and Nmap
+ 
+ -> Growing step by step in Cybersecurity and MERN Stack development
 
 
 ## Coding Profiles
