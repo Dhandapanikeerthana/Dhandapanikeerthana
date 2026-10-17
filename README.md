@@ -146,11 +146,11 @@
 
 ## GitHub Status
 
- -> Actively learning and building projects in HTML, CSS, JavaScript, Python, C, C++, and Java
+ * Actively learning and building projects in HTML, CSS, JavaScript, Python, C, C++, and Java
 
- -> Exploring Linux, Kali Linux, Networking, Wireshark, and Nmap
+ * Exploring Linux, Kali Linux, Networking, Wireshark, and Nmap
  
- -> Growing step by step in Cybersecurity and MERN Stack development
+ * Growing step by step in Cybersecurity and MERN Stack development
 
 
 ## Coding Profiles
@@ -195,15 +195,6 @@
 </p>
 
 
-
-
-
-
-##💡Quote
-"Turning ideas into code and challenges into opportunities."
-
-
-
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=Dhandapanikeerthana&color=blue&style=for-the-badge)
@@ -211,3 +202,8 @@
 ⭐ Thanks for visiting my profile!
 
 </p>
+
+
+##💡Quote
+
+"Turning ideas into code and challenges into opportunities."
