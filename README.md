@@ -75,7 +75,7 @@
 ## PROJECTS
 
 
-## 🤖GEN AI
+ ## 🤖GEN AI
 
   ## GenAI Chat LLM with Gradio
 
