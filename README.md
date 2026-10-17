@@ -141,9 +141,10 @@ software development and problem-solving skills.
 🏅 Active Data Structures & Algorithms Problem Solver
 
 
-
-
-
+## GitHub Stats
+ Actively learning and building projects in HTML, CSS, JavaScript, Python, C, C++, and Java
+ Exploring Linux, Kali Linux, Networking, Wireshark, and Nmap
+ Growing step by step in Cybersecurity and MERN Stack development
 
 # 💻 Coding Profiles
 
